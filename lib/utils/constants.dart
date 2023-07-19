@@ -1,0 +1,1 @@
+const String IS_FIRST_LAUNCH = "IS_FIRST_LAUNCH";
